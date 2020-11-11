@@ -1,3 +1,5 @@
-.board {
-    margin: 3rem;
+@media screen and (max-width: 768px) {
+    app-board {
+        width: 100%
+    }
 }
